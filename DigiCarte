@@ -1,0 +1,36 @@
+D -- I -- G -- I ---- C -- A -- R -- T -- E
+
+
+USERS:
+------
+--> Loading Page 
+--> Login / Register 
+--> Find User Location and Display the Resturant's Near By
+--> User Selects the Resturant he/she wants to check in
+--> Display the free tables available 
+--> User Selects the table he/she wants to occupy
+--> Send a Request to the Resturant to Acknowldege the Request.
+--> Once ack. Successfully, Give a bar code to the user.
+--> He can share the bar code with his/her mates to join the table.
+--> Display the menu to all the people available in the table
+--> Display the offers available, menu of the day etc. 
+--> Allow users to add items (users can also send some inputs to the kitchen) to the table
+--> Sends the request to the kitchen, and get it confrimed form the Kitchen.
+--> Display the status of the orders
+--> Display the items available on the table to all the users.
+--> Generate the bill and display payment options.
+--> Allow the users to review the food, resturant etc.
+--> Maintain users history, allow the users to add some moments like photos ,videos etc.
+--> Allow the users to share the bills amount by maintaning a wallet for each users. 
+
+Kitchen:
+---------
+--> Loading Page
+--> Login / Register (Complete Resturant details with Location) 
+--> Received request from Users to book the table, ack the request.
+--> Add / Remove / Edit Menu items/price etc.
+--> Table wise receive the orders and repond to it based on the availability.
+-->  Update the status of the orders.
+--> Add / Remove / Edit the Offers / Menu of the Day
+--> Add / Remove / Edit Tables (like seaters details, table number etc)
+--> Read / Respond to the users comments.
