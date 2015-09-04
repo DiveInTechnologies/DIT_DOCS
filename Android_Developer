@@ -1,0 +1,15 @@
+DESIGN:
+-------
+LAYOUTS
+  a.  Linear Layout
+  b.  Relative Layout
+
+
+CONCEPTS:
+---------
+Activity
+Intent
+ContentProvider
+SQLite
+AsyncTask
+AsyncTaskLoader
