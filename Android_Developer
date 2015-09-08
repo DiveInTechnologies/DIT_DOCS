@@ -3,6 +3,8 @@ DESIGN:
 LAYOUTS
   a.  Linear Layout
   b.  Relative Layout
+  c.  Scroll View
+  d.  Frame Layout
 
 
 CONCEPTS:
